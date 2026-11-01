@@ -1,3 +1,5 @@
+![Search Insights, a Kirby plugin by oweb studio. See what visitors search for, what finds nothing and which results they open.](.github/cover.png)
+
 # Kirby Search Insights
 
 Shows what visitors search for on your Kirby site, which searches find nothing and which results they open. Right in the Panel, without cookies or personal data.
