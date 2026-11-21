@@ -2,6 +2,7 @@
   "name": "owebstudio/kirby-search-insights",
   "description": "Shows what visitors search for on your Kirby site, which searches find nothing and which results they open.",
   "type": "kirby-plugin",
+  "version": "1.0.0",
   "license": "MIT",
   "keywords": [
     "owebstudio",
